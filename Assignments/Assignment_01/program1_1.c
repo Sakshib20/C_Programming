@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////
 //
 //  Function Name : Divide
-//  Description : It is used to perform division
+//  Description : It is used to perform division of two numbers
 //  Input : Integer, Integer
 //  Output : Integer
 //  Author : Sakshi Pradeep Bhapkar
