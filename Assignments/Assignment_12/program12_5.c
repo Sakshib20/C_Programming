@@ -3,7 +3,7 @@
 //  Function Name : is_divisible_by_five
 //  Description : It checks if number is divisible by 5
 //  Input : Integer
-//  Output : Void
+//  Output : Boolean
 //  Author : Sakshi Pradeep Bhapkar
 //  Date : 31/10/2025
 //
