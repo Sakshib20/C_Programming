@@ -1,0 +1,34 @@
+#include<stdio.h>
+
+int CountNonFactors(int iNo)
+{
+    int iCnt=0, iFreq=0;
+
+    if(iNo<0)
+    {
+        iNo=-iNo;
+    }
+
+    for(iCnt=1 ; iCnt<iNo ; iCnt++)
+    {
+        if ((iNo%iCnt)!=0)
+        {
+            iFreq++;
+        }
+    }
+    
+    return iFreq;
+}
+
+int main()
+{
+    int iValue=0, iRet=0;
+
+    printf("Enter the number : \n");
+    scanf("%d",&iValue);
+
+    iRet=CountNonFactors(iValue);
+    printf("Number of Non factors are : %d\n",iRet);
+
+    return 0;
+}
