@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////
 //
 //  Function Name : Pattern
-//  Description : Displays the Pattern (ex: input:5, output: 1 * 2 * 3 * 4 * 5 *)
+//  Description : Displays the Pattern (ex: input:5, output: 1 * 2 * 3 * 4 * 5 *
 //  Input  : Integer
 //  Output : Void
 //  Author : Sakshi Pradeep Bhapkar
