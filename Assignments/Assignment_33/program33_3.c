@@ -15,7 +15,7 @@
 #define FALSE 0
 
 typedef int BOOL;
-
+10
 BOOL ChkAlpha(char ch)
 {
     if(ch>='0' && ch<='9')
