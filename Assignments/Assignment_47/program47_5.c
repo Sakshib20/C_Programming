@@ -3,7 +3,7 @@
 //  Function Name : CountPrime
 //  Description : Counts the prime number from SLLL
 //  Input  : Integer Pointer(Array Address)
-//  Output : Void
+//  Output : Integer
 //  Author : Sakshi Pradeep Bhapkar
 //  Date : 12/01/2026
 //
