@@ -17,12 +17,12 @@ void Reverse(char *str)
     int iCnt=0, iCount=0;
     while(*str != '\0')
     {
-        *str++;
+        str++;
         iCnt++;
     }
     for(iCount=1;iCount<=iCnt;iCount++)
     {
-        *str--;
+        str--;
         printf("%c",*str);
     }
 }
